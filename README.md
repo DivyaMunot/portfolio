@@ -1,3 +1,3 @@
 # portfolio
 
-Access it here [https://divyamunot.github.io/portfolio/]
+Access it here [portfolio](https://divyamunot.github.io/portfolio/)
